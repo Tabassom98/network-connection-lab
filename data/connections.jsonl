@@ -1,0 +1,7 @@
+{"id": "net-1", "timestamp": "2026-01-01T00:00:00Z", "src": "192.0.2.10", "dst": "198.51.100.10", "dst_port": 22, "bytes_out": 0}
+{"id": "net-2", "timestamp": "2026-01-01T00:00:01Z", "src": "192.0.2.10", "dst": "198.51.100.10", "dst_port": 23, "bytes_out": 0}
+{"id": "net-3", "timestamp": "2026-01-01T00:00:02Z", "src": "192.0.2.10", "dst": "198.51.100.10", "dst_port": 24, "bytes_out": 0}
+{"id": "net-4", "timestamp": "2026-01-01T00:00:03Z", "src": "192.0.2.10", "dst": "198.51.100.10", "dst_port": 25, "bytes_out": 0}
+{"id": "net-5", "timestamp": "2026-01-01T00:00:04Z", "src": "192.0.2.10", "dst": "198.51.100.10", "dst_port": 26, "bytes_out": 0}
+{"id": "net-6", "timestamp": "2026-01-01T00:10:00Z", "src": "192.0.2.10", "dst": "198.51.100.10", "dst_port": 443, "bytes_out": 12000000}
+{"id": "benign", "timestamp": "2026-01-01T00:11:00Z", "src": "192.0.2.20", "dst": "198.51.100.20", "dst_port": 443, "bytes_out": 200}
