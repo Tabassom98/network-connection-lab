@@ -28,6 +28,6 @@ Review the source records and service context, then seek packet or endpoint evid
 
 ## Limits and provenance
 
-AI-assisted educational starter using invented data and documentation-range IPs. No real investigation, production deployment, threat attribution, or effectiveness claim. Small files only: input and recent state are held in memory. Repeated exports can double-count bytes; unique IDs alone cannot identify overlapping source records. Distributed and slow activity may evade the first rule.
+Educational project using invented data and documentation-range IPs. No real investigation, production deployment, threat attribution, or effectiveness claim. Small files only: input and recent state are held in memory. Repeated exports can double-count bytes; unique IDs alone cannot identify overlapping source records. Distributed and slow activity may evade the first rule.
 
 Tests cover distinct counting, boundaries, pair isolation, ordering, suppression, validation, and expected results. GitHub CI is configured for Windows/Linux and Python 3.10/3.12; remote execution must be verified after publication. MIT licensed.
